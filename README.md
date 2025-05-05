@@ -6,7 +6,7 @@ This repository contains the privacy policy for the **Roll Helper** Android app,
 
 You can view the live privacy policy at:
 
-👉 [https://yourusername.github.io/roll-helper-policy/privacy.html](https://yourusername.github.io/roll-helper-policy/privacy.html)
+👉 [https://yourusername.github.io/roll-helper-policy/privacy.html](https://Nozdub.github.io/roll-helper-policy/privacy.html)
 
 This policy explains how the app handles data — including what is stored (locally), and what is not collected or shared.
 
